@@ -9,7 +9,7 @@ import moment from 'moment-timezone';
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botnumber = '' //Ejemplo: +573138954963
+global.botnumber = '' //Ejemplo: +51748489768
 global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
@@ -36,8 +36,8 @@ global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
 global.nameqr = 'Yuta-Bot MD'
-global.sessions = 'GokuSession'
-global.jadi = 'GokuJadiBot'
+global.sessions = 'YutaSession'
+global.jadi = 'YutaJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
