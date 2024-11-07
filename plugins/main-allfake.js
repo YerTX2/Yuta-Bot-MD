@@ -31,20 +31,20 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 global.fotoperfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //creador y otros
-global.creador = 'Wa.me/5491166401905'
+global.creador = 'Wa.me/51907376960'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'Wa.me/5491166401905'
-global.namechannel = ' 💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.namechannel2 = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.namegrupo = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.namecomu = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.namecomu2 = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.colab1 = 'Miguelon'
-global.colab2 = 'Steven'
-global.colab3 = 'Dino'
+global.namechannel = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.namechannel2 = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.namegrupo = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.namecomu = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.namecomu2 = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.colab1 = 'YerTX2'
+global.colab2 = 'no'
+global.colab3 = 'no ay'
 
 //Reacciones De Comandos.!
-global.rwait = '🕒'
+global.rwait = '🧭'
 global.done = '✅'
 global.error = '✖️'
 
@@ -56,18 +56,18 @@ global.emoji4 = '🍭'
 global.emojis = [emoji, emoji2, emoji3, emoji4].getRandom()
 
 //mensaje en espera
-global.wait = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waitt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
-global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, 𝗦𝗼𝘆 𝗟𝗲𝗻𝘁o ...*';
+global.wait = '🕒 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】𝗟𝗲𝗻𝘁o..*';
+global.waitt = '🕒 𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】𝗟𝗲𝗻𝘁o..*';
+global.waittt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼, & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】𝗟𝗲𝗻𝘁o ...*';
+global.waitttt = '🕒 *𝗘𝘀𝗽𝗲𝗿𝗮 𝗨𝗻 𝗠𝗼𝗺𝗲𝗻𝘁𝗼 & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*';
 
 //Enlaces
-var grupo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var canal = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var git =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var youtube =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-var github = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-let correo =  'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
+var grupo = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
+var canal = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
+var git =  'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
+var youtube =  'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
+var github = 'https://github.com/YerTX2/Yuta-Bot-MD'
+let correo =  'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
 
 global.redes = [canal, grupo, git, youtube, github, correo].getRandom()
 
@@ -108,6 +108,6 @@ global.icono = [
 'https://qu.ax/wqN.jpg'
 ].getRandom()
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363323286489957@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '🐉 ꜞᵉˡ ᵇᵒᵗ ᵐᵃˢ ᶠᵘᵉʳᵗᵉꜝ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363350628883149@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '🐉 ꜞᵉˡ ᵇᵒᵗ ᵐᵃˢ ᶠᵘᵉʳᵗᵉꜝ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
 
 export default handler
