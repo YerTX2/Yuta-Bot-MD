@@ -31,6 +31,6 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['menu']
-handler.customPrefix = /^(.menu|/menu|#menu|)/i;
+handler.customPrefix = /^(.menu|/menu|#menu)/i;
 handler.command = new RegExp;
 export default handler;
