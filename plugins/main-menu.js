@@ -150,12 +150,12 @@ await conn.sendMessage(
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363350628883149@newsletter',
-      newsletterName: '𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐',
+      newsletterName: '𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿',
       serverMessageId: -1,
     },
     forwardingScore: 999,
     externalAdReply: {
-      title: 'Kakaroto',
+      title: 'Yuta Bot MD',
       body: dev,
       thumbnailUrl: fotoperfil,
       sourceUrl: redes,
