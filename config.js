@@ -14,19 +14,19 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['5491157402709', 'Legen-Soporte', true],
-  ['584148256527', '𝕮𝖗𝖊𝖆𝖉𝖔𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆', true],
-  ['50557865603'],
-  ['51923300039'],
-  ['15045475386'],
-  ['584120346669']
+  ['51907376960', 'yuta-Soporte', true],
+  ['51907376960', 'OWNER & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】', true],
+  ['51907376960'],
+  ['51907376960'],
+  ['51907376960'],
+  ['51907376960']
 ];
 
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['584148256527', '5218711426787', '', '', '']
+global.mods = ['51907376960', '', '', '', '']
 
-global.suittag = ['584148256527']
+global.suittag = ['51907376960']
 global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
@@ -35,23 +35,23 @@ global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.vs = '3.0.3'
 global.languaje = 'Español'
-global.nameqr = 'Kakaroto-Bot'
+global.nameqr = 'Yuta-Bot MD'
 global.sessions = 'GokuSession'
 global.jadi = 'GokuJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` 💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫`
-global.author = `♾━━━━━━━━\n⇝͟͞ 💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫⋰∴⋱𝕺𝖋𝖎𝖈𝖎𝖆𝖑\n⇝ ۵✎𝕱𝖚𝖊𝖓𝖙𝖊⋰⋰𝕺𝖜𝖓𝖊𝖗 ☆꧁༒ĹєǤ𝒆𝐧𝐃༒꧂☆❄︎\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: ৎ💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫༯`;
-global.wm = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.titulowm = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.titulowm2 = `💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫`
-global.igfg = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.botname = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.dev = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.textbot = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
-global.gt = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫';
-global.namechannel = '💫𝗧𝗘𝗔𝗠 𝗔𝗡𝗜𝗠𝗘 𝗪𝗔𝗥𝗥𝗜𝗢𝗥𝗦💫'
+global.packname = ` 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`
+global.author = `【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】 CREADOR YerTX2\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`;
+global.wm = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
+global.titulowm = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
+global.titulowm2 = `【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`
+global.igfg = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.botname = ' Yuta-Bot MD '
+global.dev = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.textbot = 'ARCHIVO ENVIANDO  YUTA-BOT MD & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.gt = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
+global.namechannel = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
@@ -97,22 +97,22 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 
 global.fakegif2 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄𖠵⃕⁖𖥔.𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨❞ ꔷ──᜔◇⃟̣̣⃕⚔️', jpegThumbnail: logo5 }}};
 
-global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄DRAKO (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
+global.fakegif3 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51907376960-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄DRAKO (￣へ ￣ ) 🔥', jpegThumbnail: logo3 }}};
 
-global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Kᴀᴋᴀʀᴏᴛᴏ (^_^♪) ⚔️', jpegThumbnail: logo5 }}};
+global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51907376960-1625305606@g.us" } : {}) }, message: { videoMessage: { title: 'Kakaroto', h: `Hmm`, seconds: '99999', gifPlayback: true, caption: '⚘݄Kᴀᴋᴀʀᴏᴛᴏ (^_^♪) ⚔️', jpegThumbnail: logo5 }}};
 
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Kakaroto༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51907376960-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Kakaroto༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo Oficial De Drako
+global.gp4 = https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Grupo Oficial De Drako
 global.gp1 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo 
-global.gp2 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'//
-global.comunidad1 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Comunidad Drako
-global.channel = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal Oficial
-global.yt = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Canal De Youtube
-global.md = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Github Oficial
-global.correo = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t'
-global.cn ='https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t';
+global.gp2 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'//
+global.comunidad1 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Comunidad Drako
+global.channel = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Canal Oficial
+global.yt = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Canal De Youtube
+global.md = 'https://github.com/YerTX2/Yuta-Bot-MD.git' //Github Oficial
+global.correo = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
+global.cn ='https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
