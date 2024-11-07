@@ -36,7 +36,7 @@ let handler = async (message, { conn, text, usedPrefix, command }) => {
           mediaType: 1, 
           showAdAttribution: true,
           title: '♡  ͜ ۬︵࣪᷼⏜݊᷼𝘿𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙨⏜࣪᷼︵۬ ͜ ',
-          body: '<(✿◠‿◠)> kakaroto🔥',
+          body: 'Yura bot MD ',
           previewType: 0, 
           thumbnail: logo5,
           sourceUrl: cn 
