@@ -15,7 +15,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
 
   let replyMessage = message.length === 0 ? '' : message
   global.totalUsers = users.length
-  let responseMessage = `╭━〔 🐉 𝙎𝙐𝘽𝘽𝙊𝙏𝙎 - 𝙆𝘼𝙆𝘼𝙍𝙊𝙏𝙊 🐉 〕⬣\n┃ *ՏᑌᗷᗷOTՏ ᑕOᑎᗴᑕTᗩᗪOՏ* : ${totalUsers || '0'}\n╰━━━━━━━━━━━━⬣\n\n${replyMessage.trim()}`.trim()
+  let responseMessage = `╭━〔 SUB BOTS YUTA BOT MD〕⬣\n┃ *ՏᑌᗷᗷOTՏ ᑕOᑎᗴᑕTᗩᗪOՏ* : ${totalUsers || '0'}\n╰━━━━━━━━━━━━⬣\n\n${replyMessage.trim()}`.trim()
 
 await stars.sendMessage(m.chat, { text: responseMessage, mentions: stars.parseMention(responseMessage) }, { quoted: fkontak })
 // await conn.reply(m.chat, responseMessage, m, rcanal)
