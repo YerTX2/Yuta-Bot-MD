@@ -41,17 +41,17 @@ global.jadi = 'YutaJadiBot'
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
 global.packsticker = `♾ ━━━━━━━━\n├ ɓσƭ:\n├ ρяοριєταяιο:\n├ ƒєϲнα ∂є ϲяєαϲιόи:\n├ нοяα:\n♾━━━━━━━━`
-global.packname = ` 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`
-global.author = `【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】 CREADOR YerTX2\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`;
-global.wm = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
-global.titulowm = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
-global.titulowm2 = `【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`
-global.igfg = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.packname = ` 𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿`
+global.author = `𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿 CREADOR YerTX2\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n♾━━━━━━━━\n\n\n\nѕτιϲκєя ϐγ: 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】`;
+global.wm = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
+global.titulowm = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
+global.titulowm2 = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
+global.igfg = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
 global.botname = ' Yuta-Bot MD '
-global.dev = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
-global.textbot = 'ARCHIVO ENVIANDO  YUTA-BOT MD & 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
-global.gt = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】';
-global.namechannel = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
+global.dev = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
+global.textbot = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】'
+global.gt = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★';
+global.namechannel = '【★𝚃𝚎𝚊𝚖 乂 𝐴𝑁𝐺 乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿★】' 
 
 
 //• ↳ ◜𝑰𝑴𝑨́𝑮𝑬𝑵𝑬𝑺◞ • 🌇
