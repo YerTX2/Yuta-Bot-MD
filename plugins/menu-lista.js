@@ -42,7 +42,7 @@ let handler = async (m, { conn, prefijo, text, args, command }) => {
 
     let listSections = []
 listSections.push({
-title: `✎ SELECCIÓNA LO QUE NECESITES`, highlight_label: `Popular Kakaroto`,
+title: `✎ SELECCIÓNA LO QUE NECESITES`, highlight_label: `Popular Yuta Bot`,
 rows: [
 {
 title: "│🤴│ᴄʀᴇᴀᴅᴏʀ ᴅᴇʟ ʙᴏᴛ", 
