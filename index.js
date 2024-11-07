@@ -23,7 +23,7 @@ font: 'chrome',
 align: 'center',
 colors: ['red']
 });
-say(`Developed By • legendary`, {
+say(`【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★`, {
 font: 'console',
 align: 'center',
 colors: ['yellow']
