@@ -100,12 +100,12 @@ global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo
 }}, { quoted: m }
 
 global.icono = [ 
-'https://qu.ax/hPJa.jpg',
-'https://qu.ax/wqN.jpg',
-'https://qu.ax/sVtk.jpeg',
-'https://qu.ax/xmbi.jpg',
-'https://qu.ax/xmbi.jpg',
-'https://qu.ax/wqN.jpg'
+'https://qu.ax/GKrfL.jpg',
+'https://qu.ax/HNqxp.jpg',
+'https://qu.ax/PYTMH.jpg',
+'https://qu.ax/GAjgg.jpg',
+'https://qu.ax/bWPOt.jpg',
+'https://qu.ax/nHPLO.jpg'
 ].getRandom()
 
 global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363350628883149@newsletter", serverMessageId: 100, newsletterName: namechannel, }, externalAdReply: { showAdAttribution: true, title: textbot, body: '🐉 ꜞᵉˡ ᵇᵒᵗ ᵐᵃˢ ᶠᵘᵉʳᵗᵉꜝ', mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, }, }}
