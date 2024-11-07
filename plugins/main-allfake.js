@@ -33,7 +33,7 @@ global.fotoperfil = await conn.profilePictureUrl(who, 'image').catch(_ => 'https
 //creador y otros
 global.creador = 'Wa.me/51907376960'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/5491166401905'
+global.asistencia = 'Wa.me/51907376960'
 global.namechannel = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
 global.namechannel2 = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
 global.namegrupo = '【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】'
@@ -44,7 +44,7 @@ global.colab2 = 'no'
 global.colab3 = 'no ay'
 
 //Reacciones De Comandos.!
-global.rwait = '🧭'
+global.rwait = '🗡️'
 global.done = '✅'
 global.error = '✖️'
 
