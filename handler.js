@@ -751,7 +751,7 @@ group: '「💨」 *Este comando solo puede ser utilizada en grupos.*\n\n*UTILIZ
 private: '「🐉」 *Esta función solo puede ser usada en chat privado.*\n\n *CANAL 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t', 
 admin: '「👑」 *Este comando solo puede ser usado por admins.*\n\n *CANAL DE 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t', 
 botAdmin: '「🔱」 *Para usar esta función debo ser admin.*\n\n *CANAL DE 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】 *\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t', 
-unreg: '「☁️」 *¡Hey! no estas registrado, registrese para usar esta función*\n\n*#reg nombre.edad*\n\n*_❕ Ejemplo_* \n\n*#reg legendary.18*\n\n *CANAL 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t',
+unreg: '「☁️」 *¡Hey! no estas registrado, registrese para usar esta función*\n\n*#reg nombre.edad*\n\n*_❕ Ejemplo_* \n\n*#reg yuta.18*\n\n *CANAL 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t',
 restrict: '「💫」 *Esta característica esta desactivada.*\n\n *CANAL DE 【★】𝚃𝚎𝚊𝚖  乂   𝐴𝑁𝐺  乂 𝐶𝐻𝐴𝑁𝑁𝐸𝐿  𝑂𝑓𝑐【★】*\n\n https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'
 }[type];
 if (msg) return conn.reply(m.chat, msg, m, rcanal).then(_ => m.react('✖️'))}
