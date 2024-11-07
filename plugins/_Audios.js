@@ -31,6 +31,7 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['yuta']
+handler.tags = ['audiosJJSKaisen'];
 handler.customPrefix = /^(.yuta|)/i;
 handler.command = new RegExp;
 export default handler;
