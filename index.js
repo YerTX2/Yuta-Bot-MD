@@ -13,7 +13,7 @@ const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('Kakaroto-Bot', {
+say('Yuta-Bot MD', {
 font: 'block',
 align: 'center',
 colors: ['white']
@@ -77,4 +77,4 @@ console.warn('🚩 Se excedió el límite de Listeners en:');
 console.warn(warning.stack);
 }
 });
-start('sunlight.js');
+start('Yuta-BotMD.js');
