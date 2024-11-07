@@ -10,7 +10,7 @@ let handler = async (m, { conn }) => {
   let user = global.db.data.users[m.sender];
 
   const audioMap = {
-    'menu': './yuta/menu.mp3'
+    '.menu',/menu','#menu': './yuta/menu.mp3'
   };
 
   for (let key in audioMap) {
@@ -31,6 +31,6 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['menu']
-handler.customPrefix = /^(menu|)/i;
+handler.customPrefix = /^(.menu|/menu|#menu|)/i;
 handler.command = new RegExp;
 export default handler;
