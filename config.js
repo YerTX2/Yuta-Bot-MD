@@ -104,8 +104,8 @@ global.fakegif4 = { key: { participant: `0@s.whatsapp.net`, ...(false ? { remote
 global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "51907376960-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'Kakaroto༆', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
  
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Grupo Oficial De Drako
-global.gp1 = 'https://whatsapp.com/channel/0029VagYdbFEwEk5htUejk0t' //Grupo 
+global.gp4 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Grupo Oficial De Yuta-Bot md
+global.gp1 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Grupo 
 global.gp2 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t'//
 global.comunidad1 = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Comunidad Drako
 global.channel = 'https://whatsapp.com/channel/0029VankMyeBadmR9Ou0So3t' //Canal Oficial
