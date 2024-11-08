@@ -15,7 +15,7 @@ return conn.reply(m.chat, '❌ Ocurrió un error', m, fake);
 
 handler.help = ['yuta', 'yutabot'];
 handler.tags = ['ai'];
-handler.register = true;
+//handler.register = true;
 handler.command = ['yuta', 'bot', 'Goku'];
 export default handler;
 
