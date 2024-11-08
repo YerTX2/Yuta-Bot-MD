@@ -9,5 +9,5 @@ await conn.sendCarousel(m.chat, '🚩 Resultado de ' + command, '🔎 Anime - ' 
 handler.command = handler.help = ['akira', 'akiyama', 'anna', 'asuna', 'ayuzawa', 'boruto', 'chiho', 'chitoge', 'deidara', 'erza', 'elaina', 'eba', 'emilia', 'hestia', 'hinata', 'inori', 'isuzu', 'itachi', 'itori', 'kaga', 'kagura', 'kaori', 'keneki', 'kotori', 'kurumi', 'madara', 'mikasa', 'miku', 'minato', 'naruto', 'nezuko', 'sagiri', 'sasuke', 'sakura', 'cosplay'];
 handler.tags = ['anime'];
 handler.group = true;
-handler.register = true
+//handler.register = true
 export default handler;
