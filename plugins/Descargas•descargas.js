@@ -130,7 +130,8 @@ await m.react(error)
 await conn.reply(m.chat, '✘ *Ocurrío un error*', m, fake)
 }}}}}
 handler.command = ['play1', 'play12']
-handler.register = false 
+handler.group = true
+//handler.register = false 
 export default handler
 
 function eYear(txt) {
