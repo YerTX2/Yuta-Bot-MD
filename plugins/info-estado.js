@@ -2,7 +2,7 @@ let handler = async (m, { conn, isRowner}) => {
         let _muptime
         let totalreg = Object.keys(global.db.data.users).length
         let totalchats = Object.keys(global.db.data.chats).length
-        let pp = 'https://tinyurl.com/23q544z8'
+        let pp = 'https://files.catbox.moe/k6e228.jpg'
     if (process.send) {
       process.send('uptime')
       _muptime = await new Promise(resolve => {
@@ -17,7 +17,7 @@ let handler = async (m, { conn, isRowner}) => {
   let txt = `
 ╭━─━─≪ *Info Goku* ≫─━─━━╮
  \n`
-      txt += `│  ≡◦ *🌟 Creador ∙* ZxYerSixZx\n`
+      txt += `│  ≡◦ *🌟 Creador ∙* YerTX2\n`
       txt += `│  ≡◦ *📚 Grupos Unidos ∙* ${groupsIn.length}\n`
       txt += `│  ≡◦ *👤 Chats Privados ∙* ${chats.length - groupsIn.length}\n`
       txt += `│  ≡◦ *💬 Total De Chats ∙* ${chats.length}\n`
