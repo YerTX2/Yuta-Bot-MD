@@ -17,13 +17,13 @@ let handler = async (m, { conn, isRowner}) => {
   let txt = `
 ╭━─━─≪ *Info Goku* ≫─━─━━╮
  \n`
-      txt += `│  ≡◦ *🌟 Creador ∙* YerTX2\n`
-      txt += `│  ≡◦ *📚 Grupos Unidos ∙* ${groupsIn.length}\n`
-      txt += `│  ≡◦ *👤 Chats Privados ∙* ${chats.length - groupsIn.length}\n`
-      txt += `│  ≡◦ *💬 Total De Chats ∙* ${chats.length}\n`
-      txt += `│  ≡◦ *🌀 Usuarios Registrados ∙* ${totalreg}\n`
-      txt += `│  ≡◦ *👥 Grupos Registrados ∙* ${totalchats}\n`
-      txt += `│  ≡◦ *🕜 Uptime ∙* ${muptime}\n`
+      txt += `│*🌟 Creador ∙* YerTX2\n`
+      txt += `│*📚 Grupos Unidos ∙* ${groupsIn.length}\n`
+      txt += `│*👤 Chats Privados ∙* ${chats.length - groupsIn.length}\n`
+      txt += `│*💬 Total De Chats ∙* ${chats.length}\n`
+      txt += `│*🌀 Usuarios Registrados ∙* ${totalreg}\n`
+      txt += `│*👥 Grupos Registrados ∙* ${totalchats}\n`
+      txt += `│*🕜 Uptime ∙* ${muptime}\n`
       txt += `╰━─━─━━─≪✠≫─━───━─━╯ `
 await conn.sendFile(m.chat, pp, 'thumbnail.jpg', txt, m)
 }
