@@ -23,8 +23,9 @@ goku += `│ 🐉 *Sayayíns Registrados ∙* ${totalreg}\n`
 goku += `│ ☁️ *Grupos Registrados ∙* ${totalchats}\n`
 goku += `│ 🕜 *Actividad ∙* ${muptime}\n`
 goku += `╰─⬣`
-await conn.sendFile(m.chat, pp, 'luffy.jpg', goku, fkontak, null, rcanal)
-}
+let gifUrl = "https://telegra.ph/file/5d3143ba763dba19fa349.mp4";
+await conn.sendMessage(m.chat, {video: {url: gifUrl}, gifPlayback: true, caption: text.trim(), mentions: [m.sender]}, {quoted: m});
+
 handler.help = ['status']
 handler.tags = ['info']
 handler.command = /^(estado|status|estate|state|stado|stats)$/i
