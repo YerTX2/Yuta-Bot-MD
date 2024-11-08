@@ -19,11 +19,11 @@ goku += `│ 👑 *Creador ∙* YERTX2 \n`
 goku += `│ 📚 *Grupos Unidos ∙* ${groupsIn.length}\n`
 goku += `│ 👤 *Chats Privados ∙* ${chats.length - groupsIn.length}\n`
 goku += `│ 💬 *Total De Chats ∙* ${chats.length}\n`
-goku += `│ 🐉 *Sayayíns Registrados ∙* ${totalreg}\n`
+goku += `│ 🇦🇱 *Registrados ∙* ${totalreg}\n`
 goku += `│ ☁️ *Grupos Registrados ∙* ${totalchats}\n`
 goku += `│ 🕜 *Actividad ∙* ${muptime}\n`
 goku += `╰─⬣`
-   let gifUrl = "https://telegra.ph/file/5d3143ba763dba19fa349.mp4";
+   let gifUrl = "https://files.catbox.moe/titvug.mp4";
 await conn.sendMessage(m.chat, {video: {url: gifUrl}, gifPlayback: true, caption: text.trim(), mentions: [m.sender]}, {quoted: m});
 
 
