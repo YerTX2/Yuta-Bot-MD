@@ -85,5 +85,6 @@ console.error(error)
 }}
 
 handler.command = ['ia','chatgpt']
+handler.group = true
 
 export default handler
