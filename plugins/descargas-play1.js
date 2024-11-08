@@ -30,7 +30,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
         [type]: { url: isVideo ? video : audio }, 
         gifPlayback: false, 
         mimetype: isVideo ? "video/mp4" : "audio/mpeg" 
-    }, { quoted: m });
+    }, { quoted: m rcanal});
 }
 
 handler.command = ['play', 'playvid'];
