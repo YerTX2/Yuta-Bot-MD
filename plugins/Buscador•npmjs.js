@@ -44,6 +44,7 @@ await m.react(error)
 handler.help = ['npmjs']
 handler.tags = ['buscador']
 handler.command = ['npmjs']
-handler.register = false
+handler.group = true
+//handler.register = false
 handler.yenes = 1
 export default handler
