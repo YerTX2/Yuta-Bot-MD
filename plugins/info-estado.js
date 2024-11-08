@@ -23,9 +23,6 @@ goku += `│ 🇦🇱 *Registrados ∙* ${totalreg}\n`
 goku += `│ ☁️ *Grupos Registrados ∙* ${totalchats}\n`
 goku += `│ 🕜 *Actividad ∙* ${muptime}\n`
 goku += `╰─⬣`
-   let gifUrl = "https://files.catbox.moe/titvug.mp4";
-await conn.sendMessage(m.chat, {video: {url: gifUrl}, gifPlayback: true, caption: text.trim(), mentions: [m.sender]}, {quoted: m});
-
 
 
 handler.help = ['status']
