@@ -8,7 +8,7 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 • Diamond
 🍟 *Rol:* Propietario
 🚩 *Número:* wa.me/5351524614
-✨️ *GitHub:* https://github.com/David-Chian
+✨️ *GitHub:* https://github.com/YerTX2 
 
 🌸  *Colaboradores:*
 
