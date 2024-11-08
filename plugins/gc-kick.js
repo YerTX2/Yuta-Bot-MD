@@ -32,7 +32,7 @@ handler.tags = ['grupo'];
 handler.command = ['kick','echar','hechar','sacar','ban'];
 handler.admin = true;
 handler.group = true;
-handler.register = true
+//handler.register = true
 handler.botAdmin = true;
 
 export default handler;
