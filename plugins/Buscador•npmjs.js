@@ -46,5 +46,5 @@ handler.tags = ['buscador']
 handler.command = ['npmjs']
 handler.group = true
 //handler.register = false
-handler.yenes = 1
+//handler.yenes = 1
 export default handler
