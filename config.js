@@ -20,14 +20,14 @@ global.owner = [
   ['51913776697'], 
   ['51907376960'], 
   ['51907376960'], 
-  ['51913776697']
+  ['51913776697']; 
 
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-//global.mods = ['51907376960', '', '', '', '']
+global.mods = ['51907376960', '', '', '', '']
 
-//global.suittag = ['51907376960']
-//global.prems = []
+global.suittag = ['51907376960']
+global.prems = []
 
 //cambiar a true si el bot detecta sus propios comandos.
 global.isBaileysFail = true
