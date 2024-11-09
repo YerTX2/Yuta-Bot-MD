@@ -13,7 +13,7 @@ const handler = async (m, {conn, text, args, usedPrefix, command}) => {
   const texto = `✨ @${m.sender.split`@`[0]} Enviando su video, espere un momento...`;
 
   try {
-    m.react('🌸'); 
+    m.react('⚡'); 
     const aa = {quoted: m, userJid: conn.user.jid};
     const prep = generateWAMessageFromContent(m.chat, {extendedTextMessage: {text: texto, contextInfo: {externalAdReply: {title: "TikTok Downloader", body: "Descarga de TikTok", thumbnail: icons, sourceUrl: yt}, mentionedJid: [m.sender]}}}, aa);
     await conn.relayMessage(m.chat, prep.message, {messageId: prep.key.id, mentions: [m.sender]});
@@ -21,19 +21,19 @@ const handler = async (m, {conn, text, args, usedPrefix, command}) => {
     const response = await axios.get(`https://eliasar-yt-api.vercel.app/api/search/tiktok?query=${args[0]}`);
     if (response.data.status) {
       const videoUrl = response.data.results.nowm;
-      const desc = `Tome su video de TikTok 🌸`;
+      const desc = `*LISTO PAPU 👾*`;
       await conn.sendMessage(m.chat, {video: {url: videoUrl}, caption: desc}, {quoted: fkontak});
       return;
     }
 
     const dataFn = await conn.getFile(`${CFROSAPI}/api/tiktokv2?url=${args[0]}`);
-    const desc1n = `Tome su video de TikTok 🌸`;
+    const desc1n = `*LISTO PAPU 👾*`;
     await conn.sendMessage(m.chat, {video: dataFn.data, caption: desc1n}, {quoted: fkontak});
   
   } catch (error) {
     try {
       const dataF = await tiktok.v1(args[0]);
-      const desc1 = `Tome su video de TikTok 🌸`;
+      const desc1 = `*LISTO PAPU 👾*`;
       await conn.sendMessage(m.chat, {video: {url: dataF.play}, caption: desc1}, {quoted: fkontak});
     } catch (e1) {
       try {
@@ -43,7 +43,7 @@ const handler = async (m, {conn, text, args, usedPrefix, command}) => {
       } catch (e2) {
         try {
           const p = await fg.tiktok(args[0]);
-          const te = `Tome su video de TikTok 🌸`;
+          const te = `*LISTO PAPU 👾*`;
           await conn.sendMessage(m.chat, {video: {url: p.nowm}, caption: te}, {quoted: fkontak});
         } catch (e3) {
           m.reply(`_*< DESCARGAS - TIKTOK />*_\n\n*🌟 Ocurrió un error. Por favor, inténtalo de nuevo más tarde.*`);
